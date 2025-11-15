@@ -38,6 +38,4 @@ To optimize profitability, film studios should prioritize family-friendly, high-
 ## Files
 -Full analysis with calculations and visualizations
 -Visual overview of key findings
-
----
-*This project demonstrates my ability to handle large datasets, perform financial analysis, and communicate insights clearly for business decision-making.*
+![Genre ROI Chart](screenshots/average_roi_by_movie_genre_chart.png)
