@@ -35,7 +35,21 @@ To optimize profitability, film studios should prioritize family-friendly, high-
 ## Next Steps
 1. Include international box office data
 
-## Files
--Full analysis with calculations and visualizations
--Visual overview of key findings
-![Genre ROI Chart](screenshots/average_roi_by_movie_genre_chart.png)
+---
+
+## Project Files
+
+**[Download Full Analysis: movie_industry_roi_project.xlsx](movie_industry_roi_project.xlsx)**
+
+### Key Visualizations
+
+**Average ROI by Movie Genre**
+![Genre ROI](screenshots/Average%20ROI%20by%20Movie%20Genre%20Chart.PNG)
+
+**ROI by Rating Category**
+![Rating ROI](screenshots/Profitability%20by%20Movie%20Rating%20Chart.PNG)
+
+**ROI vs. Score Range**
+![Score ROI](screenshots/Average%20ROI%20vs.%20Score%20Chart.PNG)
+
+
