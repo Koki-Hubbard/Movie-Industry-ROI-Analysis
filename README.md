@@ -37,19 +37,20 @@ To optimize profitability, film studios should prioritize family-friendly, high-
 
 ---
 
-## Project Files
+## Project Files & Visualizations
 
-**[Download Full Analysis: movie_industry_roi_project.xlsx](movie_industry_roi_project.xlsx)**
+### 📊 Excel Workbook
+**[Download Complete Analysis: movie_industry_roi_project.xlsx](movie_industry_roi_project.xlsx)**
 
-### Key Visualizations
+### 📈 Key Charts
 
-**Average ROI by Movie Genre**
+#### Average ROI by Movie Genre
 ![Genre ROI](screenshots/Average%20ROI%20by%20Movie%20Genre%20Chart.PNG)
 
-**ROI by Rating Category**
+#### ROI by MPAA Rating Category
 ![Rating ROI](screenshots/Profitability%20by%20Movie%20Rating%20Chart.PNG)
 
-**ROI vs. Score Range**
+#### ROI vs. IMDb Score Range
 ![Score ROI](screenshots/Average%20ROI%20vs.%20Score%20Chart.PNG)
 
 
